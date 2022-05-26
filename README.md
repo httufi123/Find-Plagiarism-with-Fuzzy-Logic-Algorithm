@@ -8,3 +8,10 @@ Fuzzy logic is a concept that first emerged in 1965 by Dr Lotfi A Zadeh, with th
 Fuzzy logic keeps intermediate values ​​such as very long-long-medium-short-very short instead of long-short, as in human logic, and everything is represented by values ​​in the [0,1] range. In summary, fuzzy logic method is preferred if the results in a system do not need to be defined precisely, if the results are desired to be displayed in range values, or if mathematical criteria need to be determined and classified as adjectives.
 # The architecture of the Fuzzy Logic algorithm is as follows:
 ![image](https://user-images.githubusercontent.com/66810191/170557396-64629f2b-367a-47b9-862e-a3f68ec8567e.png)
+# Cosine Similarity Method 
+This method calculates the similarity between two ordinal numbers based on the following formula.
+
+![image](https://user-images.githubusercontent.com/66810191/170557907-07b4cf5e-2ca1-4a92-8e18-0e76359b463c.png)
+
+
+Thanks to the value calculated with this formula, we can calculate the similarity between the digitized texts.
