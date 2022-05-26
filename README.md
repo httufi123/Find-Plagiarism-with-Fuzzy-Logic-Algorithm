@@ -1,4 +1,4 @@
-# Fing Plagiarism with Fuzzy Logic Algorithm
+# Find Plagiarism with Fuzzy Logic Algorithm
 It gains great importance in trying to prevent plagiarism while keeping up with the online world. I tried to make a small contribution to its prevention. You can find plagiarism in the texts and codes. 
 # Definition and Purpose of the Study
 The source code similarity project is basically a very common program. The reason for this is that data is taken and used without the user's permission or knowledge from both codes and documentation in various formats. In order to prevent this and to follow the legal processes, the importance of such programs is increasing day by day.
